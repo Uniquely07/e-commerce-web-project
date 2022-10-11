@@ -1,0 +1,10 @@
+.header{
+	border-style: ridge;
+	padding: 50px;
+}
+.nav{
+	text-align: right;
+}
+.table{
+	background-color: black;
+}
